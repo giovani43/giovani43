@@ -49,18 +49,14 @@ current_focus = {
 ## `> stats --github`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giovani43&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani43&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=giovani43&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani43&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165" alt="Top Languages" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=giovani43&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" width="520"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giovani43&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" width="520" alt="GitHub Streak" />
 </div>
 
 <!-- Projects -->
