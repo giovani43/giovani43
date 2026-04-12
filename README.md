@@ -14,7 +14,7 @@
 │                                              │
 │   Desarrollador Web en formación.            │
 │   Enfocado en frontend con ganas de          │
-│   aprender muchisimo mas acerca de este mundo│
+│   aprender mucho mas acerca de este mundo.   │
 │                                              │
 │   📍 Argentina                               │
 │   🎯 Objetivo: Full Stack Developer          │
