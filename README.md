@@ -52,8 +52,10 @@ now = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=giovani43&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani43&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=8b949e" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovani43&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 
 </div>
+
 
 <div align="center">
 <sub>⌨️ con ☕ desde Buenos Aires, Argentina</sub>
