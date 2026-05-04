@@ -1,56 +1,60 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=200&section=header&text=giovani43&fontSize=50&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Flask%20%C2%B7%20PostgreSQL%20%C2%B7%20React&descSize=15&descAlignY=60&descColor=8b949e" width="100%"/>
+
 </div>
-> whoami
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Full Stack Developer.                              │
-│   Construyo aplicaciones web en producción.          │
-│   Desde el diseño de base de datos hasta el deploy.  │
-│                                                      │
-│   📍 Buenos Aires, Argentina                         │
-│   🎓 Ingeniería en Sistemas — UADE                   │
-│   🚀 Proyectos reales con usuarios reales            │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-> tech --stack
+
+## `> whoami`
+
+Desarrollador Full Stack. Construyo aplicaciones web en producción.
+📍 Buenos Aires, Argentina · 🎓 Ingeniería en Sistemas — UADE
+
+## `> tech --stack`
+
 <div align="center">
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0d1117?style=for-the-badge&logo=railway&logoColor=white)
+
 </div>
-> ls ~/projects
-ProyectoStackDescripciónbarbershop-saasReact · Vite · TailwindFrontend del SaaS de turnos para barberías — en producciónbarbershop-saas-apiFlask · PostgreSQLBackend REST API del SaaS — deployado en RailwaySUBLI.v3HTML · Tailwind · JSSitio web para Sublimarce, empresa de sublimaciónBBC-completadoHTML · CSSClon de la página de BBC
-> status --current
-pythonnow = {
-    "trabajando_en":  "MVZ Barbería — SaaS de turnos en producción",
+
+## `> ls ~/projects`
+
+| Proyecto | Stack | Descripción |
+|:---------|:------|:------------|
+| [barbershop-saas](https://github.com/giovani43/barbershop-saas) | React · Vite · Tailwind | Frontend SaaS de turnos — en producción |
+| [barbershop-saas-api](https://github.com/giovani43/barbershop-saas-api) | Flask · PostgreSQL | Backend REST API — deployado en Railway |
+| [SUBLI.v3](https://github.com/giovani43/SUBLI.v3) | HTML · Tailwind · JS | Sitio web para Sublimarce |
+| [BBC-completado](https://github.com/giovani43/BBC-completado) | HTML · CSS | Clon BBC |
+
+## `> status --current`
+
+```python
+now = {
+    "trabajando_en":   "MVZ Barbería — SaaS de turnos en producción",
     "stack_principal": ["Flask", "PostgreSQL", "React", "Tailwind"],
-    "explorando":     ["Twilio / WhatsApp API", "Docker", "TypeScript"],
-    "disponible":     True,
+    "explorando":      ["Docker", "TypeScript", "WhatsApp API"],
+    "disponible":      True,
 }
-> stats --github
+```
+
+## `> stats --github`
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=giovani43&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani43&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=8b949e&hide_border=false" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=giovani43&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovani43&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=c9d1d9&text_color=8b949e" height="165"/>
+
 </div>
-<br>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=giovani43&theme=github-dark-blue&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" width="520"/>
-</div>
-> graph --contributions
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovani43&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 <sub>⌨️ con ☕ desde Buenos Aires, Argentina</sub>
 </div>
